@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-anton), var(--font-oswald), Impact, sans-serif;
+  }
+  .font-condensed {
+    font-family: var(--font-oswald), Impact, sans-serif;
+  }
+  .font-graffiti {
+    font-family: var(--font-marker), cursive;
+  }
+  .font-sans-body {
+    font-family: var(--font-jakarta), sans-serif;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

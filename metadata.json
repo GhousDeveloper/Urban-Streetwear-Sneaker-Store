@@ -1,0 +1,6 @@
+{
+  "name": "Street District — Urban Streetwear & Exclusive Sneakers",
+  "description": "Exclusive sneakers, heavyweight hoodies, and limited-edition urban streetwear built for movement and curated for the culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
